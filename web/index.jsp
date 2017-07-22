@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Chamada Css-->
 <!--    <a href="css/bootstrap.min.css.map"></a> href não é aqui-->
-    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/ >
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
             <!-- Chamadas JS -->
             <script src="js/jquery.min.js"></script>
               <script src="js/bootstrap.js"></script>
